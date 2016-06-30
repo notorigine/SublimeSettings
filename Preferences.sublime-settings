@@ -12,10 +12,21 @@
 	"default_encoding": "UTF-8",
 	"draw_white_space": "selection",
 	"font_face": "Office Code Pro",
-	"font_size": 13.5,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Agila Theme",
+		"GitGutter",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"LESS",
+		"Semantic UI",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"SublimeLinter-html-tidy",
+		"Sunrise Theme",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -23,6 +34,8 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"match_brackets_braces": true,
 	"match_brackets_content": true,
 	"material_theme_compact_panel": true,
