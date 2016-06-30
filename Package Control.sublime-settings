@@ -5,9 +5,25 @@
 	],
 	"installed_packages":
 	[
+		"Agila Theme",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
 		"LESS",
-		"Less Tabs",
-		"PHP-Twig",
+		"Material Theme",
+		"Package Control",
+		"Semantic UI",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"SublimeLinter-html-tidy",
+		"Sunrise Theme",
+		"Tag",
+		"Theme - Cobalt2",
+		"Theme - Hero",
+		"Tomorrow Color Schemes",
 		"Twig"
 	]
 }
